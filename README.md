@@ -5,4 +5,6 @@
 
 ### Estatísticas do GitHub:
 
-<img src="./profile/stats.svg" />
+<div align="center">
+  <img src="./github-metrics.svg" alt="Minhas Estatísticas" />
+</div>
