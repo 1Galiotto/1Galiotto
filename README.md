@@ -4,8 +4,9 @@
 - 🎓 Estudando Java
 
 ## Alguns Projetos:
-<a href="https://github.com/1Galiotto/Glowered-Store">Glowered Store</a> <br>
-<a href="https://github.com/1Galiotto/MineRunner">Mine Runner</a> <a href="minerunner-game.netlify.app">| 🕹️Play</a>
+<a href="https://github.com/1Galiotto/Glowered-Store">Glowered Store</a> <a href="https://glowered-store.netlify.app/">| 🕹️View (Backend Not Started) </a> <br>
+<a href="https://github.com/1Galiotto/MineRunner">Mine Runner</a> <a href="https://minerunner-game.netlify.app">| 🕹️ View</a> <br>
+<a href="https://github.com/peledos/Quackstrike">Quack Strike</a> <a href="https://quackstrike.vercel.app">| 🕹️ View</a> <br>
 ### Estatísticas do GitHub:
 
 <div align="center">
