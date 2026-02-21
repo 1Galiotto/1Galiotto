@@ -3,6 +3,9 @@
 - 🚀 Fullstack Developer
 - 🎓 Estudando Java
 
+## Alguns Projetos:
+<a href="https://github.com/1Galiotto/Glowered-Store">Glowered Store</a> 
+
 ### Estatísticas do GitHub:
 
 <div align="center">
